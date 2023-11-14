@@ -17,10 +17,10 @@ Apply Feature generation and selection techniques to all the features of the dat
 Apply data visualization techniques to identify the patterns of the data.
 
 ## CODE AND OUTPUT:
-
-Name: LOKESH RAHUL V V
-Reg no:212222100024
-
+```
+Name:Vasanthamukilan M
+Reg no:212222230167
+```
 ```python 
 import seaborn as sns
 import pandas as pd
